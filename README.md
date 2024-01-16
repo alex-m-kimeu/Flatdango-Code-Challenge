@@ -159,3 +159,6 @@ deliverables!**
    Example Response:
    {}
    ```
+**Author:** Alex Kimeu
+
+**License:** [MIT License](LICENSE)
